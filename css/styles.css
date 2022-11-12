@@ -1,0 +1,13 @@
+body {
+    background-color: #323E40;
+    color: aliceblue;}
+a {
+    color: aliceblue;
+}
+.food1 {
+    width: 500px;
+    height: auto;
+}
+.title{
+    font-weight: bold;
+}
